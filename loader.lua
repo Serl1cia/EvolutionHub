@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://evohub-auth.evohubaccess.workers.dev/files/loader.lua", true))()
+loadstring(game:HttpGet("https://evohub.asia/files/loader.lua", true))()
